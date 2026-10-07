@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishna Akshath Kasibhatta</h1>
+<h1 align="center">Hi, I'm Krishna Akshath Kasibhatta</h1>
 <h3 align="center">Full stack developer building production tooling, with a strong pull toward cybersecurity and ML</h3>
 
 <div align="center">
@@ -11,11 +11,11 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-- 🛡️ Deep into cybersecurity tooling — phishing detection, DDoS/WiFi honeypots, autonomous SOC experiments
-- 🤖 Also building with ML/AI — deepfake detection, classification pipelines
-- 💬 Ask me about full-stack architecture, security tooling, or ML pipelines
+- Deep into cybersecurity tooling — phishing detection, DDoS/WiFi honeypots, autonomous SOC experiments
+- Also building with ML/AI — deepfake detection, classification pipelines
+- Ask me about full-stack architecture, security tooling, or ML pipelines
 
 <div align="right">
   <a href="https://discord.com/users/991697270175178853">
@@ -23,7 +23,7 @@
   </a>
 </div>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <details>
   <summary>Languages</summary>
@@ -83,7 +83,7 @@
   </p>
 </details>
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnaakshath&show_icons=true&locale=en&layout=compact&theme=onedark" alt="krishnaakshath" />
@@ -93,7 +93,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaakshath&theme=onedark" alt="krishnaakshath" />
 </div>
 
-## 🎯 Projects
+## Projects
 
 <a href="https://github.com/krishnaakshath/pocket-presence">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaakshath&repo=pocket-presence&theme=onedark" />
@@ -106,8 +106,8 @@
 ---
 
 <div align="center">
-  <a href="https://krishnna-akshath.web.app">🌐 Website</a> •
-  <a href="mailto:krishna.akshath11@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/krishna-akshath-kasibhatta-947b5726b/">💼 LinkedIn</a> •
-  <a href="https://discord.com/users/991697270175178853">🎮 Discord</a>
+  <a href="https://krishnna-akshath.web.app">Website</a> •
+  <a href="mailto:krishna.akshath11@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/krishna-akshath-kasibhatta-947b5726b/">LinkedIn</a> •
+  <a href="https://discord.com/users/991697270175178853">Discord</a>
 </div>
