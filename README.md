@@ -21,9 +21,9 @@
 - Also building with ML/AI — deepfake detection, classification pipelines
 - Ask me about full-stack architecture, security tooling, or ML pipelines
 
-<div align="right">
+<div align="center">
   <a href="https://discord.com/users/991697270175178853">
-    <img src="https://lanyard.cnrad.dev/api/991697270175178853" alt="Discord Presence">
+    <img src="https://lanyard.cnrad.dev/api/991697270175178853?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=Offline%20right%20now" alt="Discord Presence">
   </a>
 </div>
 
@@ -102,10 +102,15 @@
   </picture>
 </div>
 
-## Koi
+## Koi & Languages
 
 <div align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi" />
+  <table>
+    <tr>
+      <td align="center"><img src="koi/koi.gif" width="256" alt="My koi" /></td>
+      <td align="center"><img src="languages/languages.svg" width="420" alt="Languages I use" /></td>
+    </tr>
+  </table>
 </div>
 
 ## Projects
