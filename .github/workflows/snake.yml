@@ -1,0 +1,30 @@
+name: snake
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # run it by hand from the Actions tab
+  push:
+    paths: [".github/workflows/snake.yml"]
+permissions:
+  contents: write # needed to commit the picture
+concurrency:
+  group: snake
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3.5.0 # pinned to a release, so an update can't change what runs here
+        with:
+          github_user_name: krishnaakshath
+          outputs: |
+            snake/snake.svg
+            snake/snake-dark.svg?palette=github-dark
+      - name: Commit the picture if it changed
+        run: |
+          git add snake
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update snake"
+          git push
