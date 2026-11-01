@@ -1,0 +1,28 @@
+name: koi
+on:
+  schedule:
+    - cron: "20 0 * * *" # just after midnight UTC
+  workflow_dispatch: # run it by hand from the Actions tab
+  push:
+    paths: [".github/workflows/koi.yml"]
+permissions:
+  contents: write # needed to commit the picture
+concurrency:
+  group: koi
+jobs:
+  koi:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yalongwastaken/git-koi@v1.0.2 # pinned to a release, so an update can't change what runs here
+        with:
+          body: white
+          output-dir: koi
+      - name: Commit the picture if it changed
+        run: |
+          git add koi/koi.gif
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update koi"
+          git push

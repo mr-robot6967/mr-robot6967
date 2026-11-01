@@ -93,6 +93,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaakshath&theme=onedark" alt="krishnaakshath" />
 </div>
 
+## Koi
+
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</div>
+
 ## Projects
 
 <a href="https://github.com/krishnaakshath/pocket-presence">
