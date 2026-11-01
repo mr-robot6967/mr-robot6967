@@ -9,7 +9,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-akshath-kasibhatta-947b5726b/)
   [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishna.akshath11@gmail.com)
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=krishnaakshath&label=Profile%20views&color=0e75b6&style=flat)
   ![Followers](https://img.shields.io/github/followers/krishnaakshath?style=flat&logo=github&label=Followers)
   ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkrishnaakshath&query=%24.public_repos&label=Public%20repos&logo=github&style=flat)
 
@@ -17,75 +16,71 @@
 
 ## About Me
 
-- Deep into cybersecurity tooling — phishing detection, DDoS/WiFi honeypots, autonomous SOC experiments
-- Also building with ML/AI — deepfake detection, classification pipelines
+- Deep into cybersecurity tooling: phishing detection, DDoS/WiFi honeypots, autonomous SOC experiments
+- Also building with ML/AI: deepfake detection, classification pipelines
+- Working at [Symbiosys Technologies](https://symbiosystech.com) ([@symbiosys-labs](https://github.com/symbiosys-labs))
 - Ask me about full-stack architecture, security tooling, or ML pipelines
 
-<div align="center">
-  <a href="https://discord.com/users/991697270175178853">
-    <img src="https://lanyard.cnrad.dev/api/991697270175178853?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=Offline%20right%20now&showDisplayName=true" alt="Discord Presence">
-  </a>
-</div>
+## Currently Building
+
+- [**pocket-presence**](https://github.com/krishnaakshath/pocket-presence): Discord Rich Presence for mobile games with no native support
+- [**hims-platform**](https://github.com/krishnaakshath/hims-platform): a white-label Hospital Information Management System
+- [**horizon**](https://github.com/krishnaakshath/horizon): a fast, glassy home screen for Android TV
 
 ## Tech Stack
 
-<details>
-  <summary>Languages</summary>
-  <br>
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </p>
-</details>
-
-<details>
-  <summary>Frontend</summary>
-  <br>
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  </p>
-</details>
-
-<details>
-  <summary>Backend & Databases</summary>
-  <br>
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
-  </p>
-</details>
-
-<details>
-  <summary>DevOps & Cloud</summary>
-  <br>
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original-wordmark.svg" alt="github actions" width="40" height="40"/>
-  </p>
-</details>
-
-<details>
-  <summary>Cybersecurity & ML Tools</summary>
-  <br>
-  <p align="left">
-    <img src="https://upload.vectorlogo.zone/logos/kali/images/324c35f9-62e7-40d5-8d50-3d64fa06ad0e.svg" alt="Kali Linux" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/vinceliuice/Fluent-icon-theme/master/src/scalable/apps/burp.svg" alt="Burp Suite" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/master/apps/scalable/wireshark-alt.svg" alt="Wireshark" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Nmap.svg" alt="Nmap" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </p>
-</details>
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Languages</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Frontend</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Backend &amp; Data</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>DevOps</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Security &amp; ML</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+        <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+        <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" alt="Nmap" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## GitHub Stats
 
@@ -97,8 +92,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="snake/snake-dark.svg">
-    <img src="snake/snake.svg" alt="Contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnaakshath/krishnaakshath/output/snake/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/krishnaakshath/krishnaakshath/output/snake/snake.svg" alt="Contribution snake" />
   </picture>
 </div>
 
@@ -107,8 +102,8 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="koi/koi.gif" width="256" alt="My koi" /></td>
-      <td align="center"><img src="languages/languages.svg" width="420" alt="Languages I use" /></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/krishnaakshath/krishnaakshath/output/koi/koi.gif" width="256" alt="My koi" /></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/krishnaakshath/krishnaakshath/output/languages/languages.svg" width="420" alt="Languages I use" /></td>
     </tr>
   </table>
 </div>
@@ -124,11 +119,10 @@
 | [**deepfake-detector**](https://github.com/krishnaakshath/deepfake-detector) | DeepGuard: AI-powered deepfake detection with video/audio analysis and an educational chatbot. | ![Language](https://img.shields.io/github/languages/top/krishnaakshath/deepfake-detector?style=flat) ![Stars](https://img.shields.io/github/stars/krishnaakshath/deepfake-detector?style=flat&logo=github) |
 | [**Wifiphantom**](https://github.com/krishnaakshath/Wifiphantom) | WiFi deception and fingerprinting honeypot with DNS trap, rogue AP detection and a live dashboard. | ![Language](https://img.shields.io/github/languages/top/krishnaakshath/Wifiphantom?style=flat) ![Stars](https://img.shields.io/github/stars/krishnaakshath/Wifiphantom?style=flat&logo=github) |
 
----
+## Say Hi
 
 <div align="center">
-  <a href="https://krishna-akshath.web.app">Website</a> •
-  <a href="mailto:krishna.akshath11@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/krishna-akshath-kasibhatta-947b5726b/">LinkedIn</a> •
-  <a href="https://discord.com/users/991697270175178853">Discord</a>
+  <a href="https://discord.com/users/991697270175178853">
+    <img src="https://lanyard.cnrad.dev/api/991697270175178853?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=Offline%20right%20now&showDisplayName=true" width="360" alt="Discord Presence">
+  </a>
 </div>
