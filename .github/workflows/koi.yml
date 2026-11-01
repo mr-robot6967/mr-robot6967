@@ -4,7 +4,7 @@ on:
     - cron: "20 0 * * *" # just after midnight UTC
   workflow_dispatch: # run it by hand from the Actions tab
   push:
-    paths: [".github/workflows/koi.yml"]
+    paths: [".github/workflows/koi.yml", ".github/scripts/publish.sh"]
 permissions:
   contents: write # needed to commit the picture
 concurrency:
@@ -18,11 +18,5 @@ jobs:
         with:
           body: white
           output-dir: koi
-      - name: Commit the picture if it changed
-        run: |
-          git add koi/koi.gif
-          if git diff --cached --quiet; then exit 0; fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update koi"
-          git push
+      - name: Publish to the output branch
+        run: bash .github/scripts/publish.sh koi
