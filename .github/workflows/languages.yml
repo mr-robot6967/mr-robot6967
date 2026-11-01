@@ -17,6 +17,6 @@ jobs:
       - name: Draw the languages card
         env:
           GITHUB_TOKEN: ${{ github.token }}
-        run: python3 -I .github/scripts/languages.py krishnaakshath languages/languages.svg
+        run: python3 -I .github/scripts/languages.py mr-robot6967 languages/languages.svg
       - name: Publish to the output branch
         run: bash .github/scripts/publish.sh languages
