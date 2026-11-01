@@ -93,6 +93,15 @@
   <img src="https://streak-stats.demolab.com/?user=krishnaakshath&theme=onedark&hide_border=true" alt="GitHub streak" />
 </div>
 
+## Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="snake/snake-dark.svg">
+    <img src="snake/snake.svg" alt="Contribution snake" />
+  </picture>
+</div>
+
 ## Koi
 
 <div align="center">
