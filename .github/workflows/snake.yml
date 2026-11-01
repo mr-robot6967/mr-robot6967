@@ -20,6 +20,8 @@ jobs:
           outputs: |
             snake/snake.svg
             snake/snake-dark.svg?palette=github-dark
+      - name: Take ownership of the generated files (the snk action runs as root)
+        run: sudo chown -R "$(id -u):$(id -g)" snake
       - name: Drop the progress bar and fade the snake out at the end
         run: python3 -I .github/scripts/snake_post.py snake/snake.svg snake/snake-dark.svg
       - name: Publish to the output branch
